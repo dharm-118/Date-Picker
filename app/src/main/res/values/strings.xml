@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Date Picker Dialog</string>
+    <string name="DOB">DOB = </string>
+</resources>
